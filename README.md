@@ -1,3 +1,5 @@
+🙋🏾‍♂️ Hello, I'm Chris Yesso, a Software Engineer focused on learning new technologies who happens to also enjoys designing nice interfaces for great products.
+
 ## Hi there 👋
 
 <!--
